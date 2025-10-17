@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+a {
+  color: inherit;
+}
+
+button:focus {
+  outline: none;
+}
+
+body {
+  min-height: 100vh;
+}
